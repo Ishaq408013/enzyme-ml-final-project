@@ -1,3 +1,0 @@
-Place FASTA files here:
-- ec1_oxidoreductase.fasta
-- ec2_transferase.fasta
