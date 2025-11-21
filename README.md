@@ -14,6 +14,9 @@ Can amino acid composition alone classify EC1 vs. EC2 enzymes better than random
 - Models used: Logistic Regression, SVM (RBF), Random Forest  
 - Evaluation: Accuracy, macro F1-score, ROC AUC  
 - Visualizations: Confusion matrix, ROC curve, PCA
+  
+  **GitHub Repository:** https://github.com/Ishaq408013/enzyme-ml-final-project
+
 
 ## Repository Structure
 
